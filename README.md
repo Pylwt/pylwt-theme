@@ -1,5 +1,5 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/GhostDuckyy/Ui-Librarys/main/Gerad's/Source.lua"))()
-local Window = Library:CreateWindow('Pylwt Hub')
+local Window = Library:CreateWindow('Cosmos Hub')
 local Section = Window:Section('Click Here')
 Section:Label('Choose A Theme')
 Section:Button('- - - - -', function()
